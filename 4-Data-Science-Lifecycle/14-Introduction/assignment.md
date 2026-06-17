@@ -21,3 +21,12 @@ Refer to the [dataset's dictionary](https://www1.nyc.gov/assets/tlc/downloads/pd
 
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
+
+## Answer
+1. The data in this dataset can help you answer the question, because you first of all have the date of the rides so you can now which season it was. Also you have a tip amount column that you can run the calculations on.
+
+2. A dataset that can potentially be helpful in answerung the client's question in the green taxis dataset from that same year (2019) and looking to see if there a any noticable diffrences between the two. ([2019 Green Taxi Trip Data](https://data.cityofnewyork.us/Transportation/2019-Green-Taxi-Trip-Data/q5mz-t52e/about_data))
+
+3.  - What is the end goal you want to achieve, to see?
+    - Do you want to include the extreme cases of high tips and no tips?
+    - Should i take into consideration the amount of passangers, trip distance and the area of the city?

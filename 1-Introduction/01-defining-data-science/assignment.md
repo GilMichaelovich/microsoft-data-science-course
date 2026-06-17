@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | how to improve the education process | take test results from different times in the year and grades and compare them | in a database | seeing where the grades are lacking and in what field and improving or changing the way it is taught |
+| Vaccination | how to control vaccination during the pandemic | vaccination areas, how many people are vaccinated in certains areas, how many people get vaccinated every day/total | data lake | which areas need more prompt to get vaccinated, which areas are more prone to getting vaccinations |
+| Productivity | how to know if you're prodactive at work | work hours, actual work time, completed missions | database | seeing how much time you're actually productive at work, seeing what missions takes you longer do complete, assigning certain mission to certain people |
 
 ## Rubric
 

@@ -132,6 +132,9 @@ There is a `TwitterData.json` file that you can upload to the SampleDB database.
 
 Try to run a few select queries to find the documents that have Microsoft in the text field. Hint: try to use the [LIKE keyword](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/sql-query-keywords#using-like-with-the--wildcard-character)
 
+The query that i run on the data in Azure Cosmos DB Emulator: 
+SELECT * FROM c WHERE c.text LIKE "%Microsoft%"
+
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/11)
 
 

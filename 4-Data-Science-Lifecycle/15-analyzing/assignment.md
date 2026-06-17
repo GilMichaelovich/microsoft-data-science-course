@@ -22,3 +22,12 @@ Use some the techniques in this lesson to do your own EDA in the notebook (add c
 
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
+
+## Q1
+From this correlation chart you can infer that there is moderate correlation between the tip amount and the payment type, the total amount of the ride, the trip distance and the tolls amount.
+
+## Q2
+The columns which are most likely not needed to answer the question are: PULocationID, extra, VendorID, mta_tax, DOLocationID, passenger_count, congestion_surcharge and RatecodeID.
+
+## Q3
+Based on what has been provided so far it doesn't seem to be any evidence yet of any seasonal tipping behavior, but it's still early to be sure and needs a further look into the data.

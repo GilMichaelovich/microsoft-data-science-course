@@ -4,6 +4,12 @@
 
 We saw how to use the Azure ML platform to train, deploy and consume a model in a Low code/No code fashion. Now look around for some data that you could use to train an other model, deploy it and consume it. You can look for datasets on [Kaggle](https://kaggle.com) and [Azure Open Datasets](https://azure.microsoft.com/services/open-datasets/catalog?WT.mc_id=academic-77958-bethanycheum&ocid=AID3041109).
 
+## Answer
+I've used the diabetes dataset from [Microsoft Azure datasets](https://learn.microsoft.com/en-us/azure/open-datasets/dataset-diabetes?tabs=azure-storage).
+I went through the proccess of creating an automated ML, went through the whole workflow of creating it from scratch, then I deployed it and checked whether it was correct.
+It was successful and I was able to consume it through a python code I run in jupyter notebook.
+
+
 ## Rubric
 
 | Exemplary | Adequate | Needs Improvement |

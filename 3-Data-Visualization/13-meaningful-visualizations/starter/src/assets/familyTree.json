@@ -1,0 +1,17 @@
+[
+  { "from": "Me", "to": "brother"},
+  { "from": "Me", "to": "Dad"},
+  { "from": "Me", "to": "Mum"},
+  { "from": "Mum", "to": "Dad"},
+  { "from": "Mum", "to": "brother"},
+  { "from": "Mum", "to": "Uncle_Mum_Side"},
+  { "from": "Mum", "to": "Aunt_Mum_Side"},
+  { "from": "Aunt_Mum_Side", "to": "Uncle_Mum_Side"},
+  { "from": "Dad", "to": "brother"},
+  { "from": "Dad", "to": "Uncle1_Dad_Side"},
+  { "from": "Dad", "to": "Uncle2_Dad_Side"},
+  { "from": "Dad", "to": "Aunt_Dad_Side"},
+  { "from": "Uncle1_Dad_Side", "to": "Uncle2_Dad_Side"},
+  { "from": "Uncle1_Dad_Side", "to": "Aunt_Dad_Side"},
+  { "from": "Uncle2_Dad_Side", "to": "Aunt_Dad_Side"}
+]

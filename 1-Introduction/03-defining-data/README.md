@@ -59,6 +59,16 @@ Kaggle is an excellent source of open datasets. Use the [dataset search tool](ht
 - Is the data quantitative or qualitative?
 - Is the data structured, unstructured, or semi-structured?
 
+1. https://www.kaggle.com/datasets/abbas829/global-tech-talent-and-workforce-survey/data
+This is structured qualitative dataset.
+
+2. https://www.kaggle.com/datasets/sharmajicoder/why-gen-z-are-not-posting-on-social-media
+This is a structerd quantative dataset.
+
+3. https://www.kaggle.com/datasets/prince7489/battery-percentage-vs-gaming-sessions-dataset
+This is a structured quantative and qualitative dataset.
+
+
 ## [Post-lecture quiz](https://ff-quizzes.netlify.app/en/ds/quiz/5)
 
 

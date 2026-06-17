@@ -6,7 +6,8 @@
 
 <script>
 import D3Network from "vue-d3-network";
-import letters from "../assets/letters.json";
+import letters from "../assets/familyTree.json";
+
 
 export default {
   name: "Nodes",
@@ -26,7 +27,21 @@ export default {
   },
   methods: {
     createLinks(characters) {
-      //complete this code
+      //loop through letters
+      let f = 0;
+      let t = 0;
+      for (var i = 0; i < letters.length; i++) {
+          for (var j = 0; j < characters.length; j++) {
+              
+            if (characters[j] == letters[i].from) {
+              f = j;
+            }
+            if (characters[j] == letters[i].to) {
+              t = j;
+            }
+        }
+        this.links.push({ sid: f, tid: t });
+      };
     },
     getCount(name) {
       var count = 0;
@@ -56,21 +71,15 @@ export default {
 
   created() {
     let characters = [
-      "Chevalier Danceny",
-      "Marquise de Merteuil",
-      "Cécile Volanges",
-      "Présidente de Tourvel",
-      "Azolan, chasseur",
-      "Madame de Rosemonde",
-      "Madame de Volanges",
-      "Vicomte de Valmont",
-      "Père Anselme",
-      "...",
-      "M. Bertrand",
-      "Anonyme",
-      "Sophie Carnay",
-      "Maréchale de ***",
-      "Le Comte de Gercourt",
+      "Me",
+      "brother",
+      "Dad",
+      "Mum",
+      "Uncle_Mum_Side",
+      "Aunt_Mum_Side",
+      "Uncle1_Dad_Side",
+      "Uncle2_Dad_Side",
+      "Aunt_Dad_Side",
     ];
 
     this.createLinks(characters);

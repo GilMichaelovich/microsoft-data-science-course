@@ -19,3 +19,13 @@ In this assignment, you'll write your own case study reflecting a data ethics ch
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
 One or more data ethics challenges are identified. <br/> <br/> The case study clearly describes a real-world incident reflecting that challenge, and highlights undesirable consequences or harms it caused. <br/><br/> There is at least one linked resource to prove this occurred. | One data ethics challenge is identified. <br/><br/> At least one relevant harm or consequence is discussed briefly. <br/><br/> However discussion is limited or lacks proof of real-world occurence. | A data challenge is identified. <br/><br/> However the description or resources do not adequately reflect the challenge or prove it's real-world occurence. |
+
+ANSWER
+Data privacy and user rights.
+There have been a security breach recently in which hackers stole users data from a big tech company, which I will not name for legal reasons.
+This is a big problem with data ethics, more specificly inn daata privacy and user rights, because this company collect personal data from user so it's required to also maintain it private and safe.
+The hackers firstly collected the data which violated the data privacy, now secondly the users didn't know right away, they only got that information agter a courrt order the made the company confirm that there was in fact a data leak because of hackers.
+Because of that personal data of users that they would not want out there for everyone to be able to get now can be bought from these hackers.
+also maybe their credit cards, i.p adresses and other personal information can be used by other people.
+the company can maybe try and reach those hackers and get them to face consquences in court, but if the information is already out there on the internet' there nothing really that can be done, only thing is to inform their users and be honest and maybe offer a compensation.
+I won't provide a link because i don't want to risk legal action or defamation.

@@ -8,3 +8,6 @@ Using the code sample in this project to create a social network, mock up data o
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
 A GitHub repo is presented with code that runs properly (try deploying it as a static web app) and has an annotated README explaining the project | The repo does not run properly or is not documented well | The repo does not run properly and is not documented well
+
+# The assigment answer is located in the starter folder
+## README assignment.md
